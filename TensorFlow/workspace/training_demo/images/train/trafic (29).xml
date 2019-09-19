@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>trafic (29).jpg</filename>
+	<path>D:\Users\Splimter\PFE\temp\Trafic Light\images\trafic (29).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>511</width>
+		<height>340</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>trafic</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>312</xmin>
+			<ymin>107</ymin>
+			<xmax>370</xmax>
+			<ymax>292</ymax>
+		</bndbox>
+	</object>
+</annotation>
